@@ -1,6 +1,6 @@
 <div align="center">
 
- <img alt="Name" title="Name" src="./Salman.svg"/>
+ <img alt="Name" title="Name" width="250" src="./Salman.svg"/>
 
 <p align="center">
 
