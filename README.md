@@ -45,7 +45,7 @@
 
 - 📄 Know about my experiences [Resume](https://github.com/MdSalmanTd)
 
-- ⚡ Fun fact **I think I'm should be king of my field**
+- ⚡ Fun fact **I think I should be king of my field**
 
 
 <br>
