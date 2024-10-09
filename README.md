@@ -24,7 +24,7 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1e88e5&logoColor=white)](https://www.facebook.com/mdsalmantdo.o)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01999907883)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801999907883)
 [![GitHub](https://img.shields.io/badge/-GitHub-424242?style=for-the-badge&logo=github&labelColor=1b1b1b&logoColor=white)](https://github.com/MdSalmanTd)
 [![Facebook](https://img.shields.io/badge/-Facebook-0A66C2?style=for-the-badge&logo=facebook&labelColor=1e88e5&logoColor=white)](https://www.facebook.com/mdsalmantdo.o) 
 </div>
